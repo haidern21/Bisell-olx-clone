@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428328370699",
+    "project_id": "bisell-olx-clone",
+    "storage_bucket": "bisell-olx-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428328370699:android:2e2b0a6269941211677d0e",
+        "android_client_info": {
+          "package_name": "com.example.bisell_olx_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428328370699-p4g18thbi0ihqqeu7t1ics2t8cl0cms7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAywfiANFnrCN68IiV3qS_3aQestOXiXqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428328370699-p4g18thbi0ihqqeu7t1ics2t8cl0cms7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
